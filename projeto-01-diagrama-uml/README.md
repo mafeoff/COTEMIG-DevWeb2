@@ -1,6 +1,6 @@
-# Projeto 01 — Diagrama UML (Personagem / Batalha)
+# Project 01 — UML Diagram (Character / Battle)
 
-Diagrama de classes UML planejando um sistema de personagens e batalhas (nomes de método iguais aos usados depois no projeto de RPG do `projeto-04-rpg-mvc/`).
+UML class diagram planning a character and battle system, with method names matching those later used in the RPG project in `projeto-04-rpg-mvc/`.
 
-- **`diagrama-v1-0625.png`** — 17/03/2023, 06:25.
-- **`diagrama-v2-0650.png`** — 17/03/2023, 06:50 (mesma manhã, layout revisado e nome do método corrigido de `VerificaBatalha` para `VerificarBatalha`).
+- **`diagrama-v1-0625.png`** — 03/17/2023, 6:25 AM.
+- **`diagrama-v2-0650.png`** — 03/17/2023, 6:50 AM (same morning, with a revised layout and the method name corrected from `VerificaBatalha` to `VerificarBatalha`).
