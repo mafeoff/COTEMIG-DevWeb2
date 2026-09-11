@@ -1,6 +1,6 @@
-# Projeto 02 — Calculadora em PHP + MySQL
+# Project 02 — PHP + MySQL Calculator
 
-Calculadora web em PHP: uma classe `Calculadora` faz as quatro operações básicas e grava cada resultado num banco MySQL (`devwev2_projeto_02`). `listar.php` lista as operações salvas e `processar.php` recebe os dados do formulário (`index.html`).
+Web-based calculator developed in PHP. A `Calculadora` class performs the four basic arithmetic operations and stores each result in a MySQL database (`devwev2_projeto_02`). `listar.php` displays the saved operations, while `processar.php` receives the form data from `index.html`.
 
-- **`v1-16mar-1152/`** — 16/03/2023, por volta das 11h50–11h56.
-- **`v2-17mar-0830/`** — 17/03/2023, 08:30 — só o `index.html` foi atualizado nessa versão.
+- **`v1-16mar-1152/`** — 03/16/2023, approximately 11:50–11:56 AM.
+- **`v2-17mar-0830/`** — 03/17/2023, 8:30 AM — only `index.html` was updated in this version.
