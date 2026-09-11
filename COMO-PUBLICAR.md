@@ -1,7 +1,7 @@
-# Como publicar este repositório no GitHub (usando GitHub Desktop)
+# How to Publish This Repository on GitHub
 
-1. Abra o GitHub Desktop e faça login com sua conta.
-2. **File → New Repository**, nome `web2-desenvolvimento-web-ii`.
-3. Copie o conteúdo desta pasta (README.md e as 4 subpastas) para dentro da pasta local criada.
-4. Escreva uma mensagem de commit, ex.: `Projetos de Desenvolvimento Web II - 2023`.
-5. **Commit to main** → **Publish repository**.
+1. Open GitHub Desktop and sign in to your account.
+2. Go to **File → New Repository** and name it `web2-desenvolvimento-web-ii`.
+3. Copy the contents of this folder (`README.md` and the 4 subfolders) into the newly created local repository folder.
+4. Enter a commit message, for example: `Web Development II Projects - 2023`.
+5. Click **Commit to main** → **Publish repository**.
