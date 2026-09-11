@@ -1,8 +1,9 @@
-# Projeto TypeScript — Leitura de Municípios
+# TypeScript Project — Municipality Data
 
-Exercício em TypeScript (Node.js) que lê um arquivo de dados (CSV/texto) com município, UF e população, usando duas classes: `Municipio` (armazena os dados, com getters) e `MunicipioFactory` (lê o arquivo e constrói a lista de municípios).
+TypeScript (Node.js) exercise that reads a data file (CSV/text) containing municipality, state (UF), and population information, using two classes: `Municipio` (stores the data, with getters) and `MunicipioFactory` (reads the file and builds the list of municipalities).
 
-**Data:** 07/07/2023.
+**Date:** 07/07/2023.
 
-## Arquivo
+## File
+
 - [`index.ts`](index.ts)
